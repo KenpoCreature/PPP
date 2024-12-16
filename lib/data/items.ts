@@ -66,46 +66,10 @@ export default [
     row: "14",
   },
   {
-    name: "Raw Bacon",
-    id: "raw_bacon",
-    weight: 0.35,
-    row: "17",
-  },
-  {
-    name: "Cooked Bacon",
-    id: "cooked_bacon",
-    weight: 0.35,
-    row: "18",
-  },
-  {
-    name: "Raw Sausage",
-    id: "raw_sausage",
-    weight: 0.35,
-    row: "19",
-  },
-  {
-    name: "Raw Pork",
-    id: "raw_pork",
-    weight: 0.35,
-    row: "21",
-  },
-  {
     name: "Soy Beans",
     id: "soy_beans",
     weight: 0.1,
     row: "22",
-  },
-  {
-    name: "Cooked Sausage",
-    id: "cooked_sausage",
-    weight: 0.35,
-    row: "23",
-  },
-  {
-    name: "Cooked Pork",
-    id: "cooked_pork",
-    weight: 0.35,
-    row: "24",
   },
   {
     name: "Milk",
