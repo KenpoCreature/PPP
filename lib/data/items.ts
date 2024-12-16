@@ -72,12 +72,6 @@ export default [
     row: "22",
   },
   {
-    name: "Milk",
-    id: "milk",
-    weight: 0.1,
-    row: "29",
-  },
-  {
     name: "Apple Juice",
     id: "apple_juice",
     weight: 1.0,
